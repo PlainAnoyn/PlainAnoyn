@@ -6,10 +6,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on **[PathFinder-A Puzzle Game](link)**
+- 🔭 I’m currently working on **[PathFinder – A Puzzle Game](https://github.com/bipeshk48/pathfinder-game)**
 - 🌱 I’m currently learning **Next.js, Docker, and AI tools**
 - 💬 Ask me about **JavaScript, Python, APIs**
-- 📫 How to reach me: **bipeshk48.@gmail.com**
+- 📫 How to reach me: **bipeshk48@gmail.com**
 - ⚡ Fun fact: *Coffee makes up 60% of my codebase.*
 
 ---
@@ -29,32 +29,32 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bipeshk48&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipeshk48&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 ---
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipeshk48&theme=tokyo-night" alt="activity graph" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 <p>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight" /></a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight" /></a>
+  <a href="https://github.com/bipeshk48/pathfinder-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bipeshk48&repo=pathfinder-game&theme=tokyonight" /></a>
+  <a href="https://github.com/bipeshk48/another-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bipeshk48&repo=another-project&theme=tokyonight" /></a>
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/bipeshk48"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/bipeshk48"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://bipeshk48.dev"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
